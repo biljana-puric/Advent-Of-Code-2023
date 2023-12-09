@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-public class Day1 {
+public class Day1_First_Challenge {
 
     public static int calculateSum(String filePath) {
         try (BufferedReader reader = Files.newBufferedReader(Paths.get(filePath))) {
