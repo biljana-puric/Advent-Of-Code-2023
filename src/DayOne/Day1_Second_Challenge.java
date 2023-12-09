@@ -9,7 +9,7 @@ import java.util.Map;
 
 public class Day1_Second_Challenge {
     public static void main(String[] args) {
-        System.out.println(calculateSum("E:\\ETF\\ostalo\\AdventOfCode2023\\src\\DayOne\\Day1_input"));
+        System.out.println(calculateSum("Day1_input.txt"));
     }
 
     public static int calculateSum(String filePath){
